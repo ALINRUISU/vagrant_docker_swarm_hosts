@@ -1,5 +1,8 @@
 # What is vagrant_docker_swarm_hosts
 
+```console
+$ docker swarm init
+```
 
 ```console
 $ docker swarm join --token SWMTKN-1-5x0j19ksl7nlf0uo81nv52dvac0jyu44gpkb803xx53lc3nkhs-7mi255fezr7547qfhpv2vxcsh 192.168.0.101:2377
